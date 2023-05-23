@@ -3,7 +3,7 @@
 Your magic wand to demo Flutter apps
 
 <p align="center">
-  <img width="100%" height="400" alt="wizard cat. it's a shame you can't see him :(" src="https://raw.githubusercontent.com/ukoreh/.github/master/cat.svg">
+  <img width="100%" alt="wizard cat. it's a shame you can't see him :(" src="https://raw.githubusercontent.com/ukoreh/.github/master/cat.svg">
 </p
   
 We all love to view and research new projects on GitHub. Some of them have screenshots and videos, others don't. Well, wouldn't it be great if at the distance of a click you could get a demo of that particular project?
